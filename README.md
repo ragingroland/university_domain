@@ -90,8 +90,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/xcoms.html
 
 https://www.astronomer.io/docs/learn/airflow-passing-data-between-tasks
 
-https://www.learndatasci.com/solutions/
-python-valueerror-truth-value-series-ambiguous-use-empty-bool-item-any-or-all/
+https://www.learndatasci.com/solutions/python-valueerror-truth-value-series-ambiguous-use-empty-bool-item-any-or-all/
 
 https://www.restack.io/docs/airflow-knowledge-xcom-pull-push-example
 
