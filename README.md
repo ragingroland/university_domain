@@ -101,3 +101,5 @@ https://www.restack.io/docs/airflow-knowledge-xcom-pull-push-example
 https://github.com/trbs/airflow-examples/blob/master/dags/example_xcom.py
 
 https://stackoverflow.com/questions/46059161/airflow-how-to-pass-xcom-variable-into-python-function
+
+https://pythonguides.com/pandas-dataframe-iterrows/#:~:text=In%20Python%2C%20the%20itertuple()%20method,values%20of%20namedtuple%20are%20ordered
